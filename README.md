@@ -13,7 +13,7 @@ My main objective was to make learning fun instead of boring. The aim here is to
 - [ ] Level 2 Introduction of radicals and combination of elements and radicals to form compounds e.g (H<sub>2</sub>SO<sub>4</sub>)
 - [ ] Level 3 Chemical reactions between compounds e.g (HCl + NaOH -> Nacl + H<sub>2</sub>0)
 - [X] Elements up to Potassium have been introduced
-- [ ] Elements after Potassium to be introduced
+- [X] Elements after Potassium to be introduced
 - [ ] Concepts of Inert Gases can be introduced and they will not do anything when combined with other elements showing their inertness to reactions
 - [ ] Further suggestions for improvement
 
@@ -22,7 +22,7 @@ My main objective was to make learning fun instead of boring. The aim here is to
 You can enjoy the game here: [Play Now](http://griffintaur.github.io/Periodic-Elemental-2048/)
 
 # Update
-I added another clone of Oganesson - Oganesson - Size 16. It can support grid sizes up to 16x16 just to make the game so that it is available on all Periodic 2048 sites. The game has been modified for endless gameplay too!
+I added another clone of Oganesson - Oganesson - Size 16. It can support grid sizes up to 16x16 just to make the game so that it is available on all Periodic 2048 sites. The game has been modified for endless gameplay too! Also added Zen mode for easier versions to see more tiles.
 
 # Note
 This is a 2048 Chemistry variant, in which two adjacent tiles with the same element can merge to form a tile of the next element. For example, two Selenium (Se) tiles can merge to form a Bromine (Br) tile.
